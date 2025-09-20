@@ -1,4 +1,4 @@
-#Learn about git and github
+# Learn about git and github
 
 My learning rough curve
 
